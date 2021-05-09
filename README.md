@@ -1,5 +1,5 @@
 # brokenkeys
-Keymap for OLKB Preonic Rev 3
+Keymap for OLKB Preonic Rev 3 with different underglow colours for different layers.
 
 ## Layer List
 ```bash
