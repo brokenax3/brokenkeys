@@ -4,7 +4,7 @@ Keymap for OLKB Preonic Rev 3 with different underglow colours for different lay
 ## Layer List
 ```bash
 Layer 0 - QWERTY
-Layer 1 - Coleman MOD-DH
+Layer 1 - Colemak MOD-DH
 Layer 2 - Arrow Keys
 Layer 3 - Symbols
 Layer 4 - Shortcuts
@@ -17,7 +17,7 @@ Layer 6 - Settings
 ## Layer 0 - QWERTY
 ![Layer 0](images/layer0.png)
 
-## Layer 1 - Coleman MOD-DH
+## Layer 1 - Colemak MOD-DH
 ![Layer 1](images/layer1.png)
 
 ## Layer 2 - Arrow Keys
